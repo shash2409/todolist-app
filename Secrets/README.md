@@ -1,2 +1,2 @@
 # Secret Keeper App 
-Uses passwordjs and oAuth 2.0 for login authorization.
+Uses Password-js and OAuth 2.0 for login authorization.
